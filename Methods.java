@@ -10,6 +10,7 @@ static void printnumbers(int startpoint, int endpoint) {
 
 static void printtime(int hour, int min) {
 		System.out.print(hour);
+		System.out.print("Heyyy, i made these changes - Farid");
 		System.out.print(":");
 		System.out.print(min);
 		System.out.println("AM/PM");
